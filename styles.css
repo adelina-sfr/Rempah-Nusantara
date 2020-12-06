@@ -1,0 +1,33 @@
+/*style jumbotron*/
+.jumbotron {
+	background-image: url(img/bg3.jpg);
+	background-size: cover;
+	height: 650px;
+	text-align: center;
+	margin-top: -120px;
+}
+
+.jumbotron .display-4 {
+	color: white;
+	margin-top: 200px;
+}
+
+.jumbotron p {
+	color: white;
+	font-size: 23px;
+	font-family:Verdana; 
+
+}
+
+/*style slider*/
+.carousel-item {
+	height:350px ;
+}
+
+.navbar-brand{
+	padding: 20px;
+}
+
+.materi{
+	
+}
