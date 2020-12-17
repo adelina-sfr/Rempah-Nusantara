@@ -34,3 +34,22 @@
 .materi{
 	
 }
+
+.kiri{
+	float: left;
+	width: 500px;
+	height: 500px;
+}
+
+.kanan{
+	float: right;
+	width: 500px;
+	height: 500px;
+}
+
+.caramengolah{
+	float: left;
+	width: 500px;
+	height: 200px;
+}
+
